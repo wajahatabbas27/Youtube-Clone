@@ -46,6 +46,11 @@
 - position:sticky, top:0, z-index: 100
 - stroke-color for the color in tailwind-css
 
+- bydefault components are block in nature as they appear one after another, when we apply flex they come side by side.
+- flex:0.2;  -- means it 20% of the screen
+- font-weight,font-size
+
+- we can also pass components in the props, Put to pass the components in the props we must have the props name start with the capital letter.
 
 
 

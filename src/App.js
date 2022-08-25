@@ -1,13 +1,16 @@
 import React from "react";
 import Header from "./components/Header";
+import RecommendedVideos from "./components/RecommendedVideos";
+import SideBar from "./components/SideBar";
 
 function App() {
   return (
     <div>
-      {/* Header  */}
       <Header />
-      {/* SideBar */}
-      {/* Recommended Videos */}
+      <div className="flex">
+        <SideBar />
+        <RecommendedVideos />
+      </div>
     </div>
   );
 }

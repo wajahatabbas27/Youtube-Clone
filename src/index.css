@@ -2,6 +2,29 @@
     margin: 0;
 }
 
+.icon{
+    color: #606060;
+    font-size: large !important; 
+}
+
+.sideBarRow:hover > .sideBarRow_icon{
+    color: red;
+}
+
+.sideBarRow:hover > .sideBarRow_title{
+    font-weight: bold;
+}
+
+.sideBarRow.selected{
+    background-color: rgb(163, 160, 160)
+}
+
+.sideBarRow.selected > .sideBarRow_icon{
+    color: red
+}
+
+
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
