@@ -7,7 +7,7 @@ const RecommendedVideos = () => {
       <h2 className='ml-[5px] mb-[20px] text-lg font-bold'>Recommended</h2>
       <div className='flex flex-wrap'>
         <VideoCards
-          image='https://i.ytimg.com/an_webp/YR8weV9nEKI/mqdefault_6s.webp?du=3000&sqp=CIasm5gG&rs=AOn4CLBNbETupJLod-Mzb8kpZ6VuA5aqNA'
+          image='https://i.ytimg.com/vi/A7NyFVdvrho/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-XOB31k_nf5pqudOI92lpPW8GxQhttps://i.ytimg.com/vi/A7NyFVdvrho/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-XOB31k_nf5pqudOI92lpPW8GxQ'
           title='Judd Trump Into Last 16 With Century Clearance | 2022/23 BetVictor European Masters'
           channel='World Snooker Tour'
           channelImage='https://yt3.ggpht.com/ytc/AMLnZu_-ZBISmDKv7JZQnb34A7-dY7vMZ2jTADj8jEdNTw=s88-c-k-c0x00ffffff-no-rj'
@@ -47,7 +47,7 @@ const RecommendedVideos = () => {
           timestamp='2 days ago'
         />
         <VideoCards
-          image='https://i.ytimg.com/an_webp/YR8weV9nEKI/mqdefault_6s.webp?du=3000&sqp=CIasm5gG&rs=AOn4CLBNbETupJLod-Mzb8kpZ6VuA5aqNA'
+          image='https://i.ytimg.com/vi/A7NyFVdvrho/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-XOB31k_nf5pqudOI92lpPW8GxQhttps://i.ytimg.com/vi/A7NyFVdvrho/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-XOB31k_nf5pqudOI92lpPW8GxQ'
           title='Judd Trump Into Last 16 With Century Clearance | 2022/23 BetVictor European Masters'
           channel='World Snooker Tour'
           channelImage='https://yt3.ggpht.com/ytc/AMLnZu_-ZBISmDKv7JZQnb34A7-dY7vMZ2jTADj8jEdNTw=s88-c-k-c0x00ffffff-no-rj'
@@ -87,7 +87,7 @@ const RecommendedVideos = () => {
           timestamp='2 days ago'
         />
         <VideoCards
-          image='https://i.ytimg.com/an_webp/YR8weV9nEKI/mqdefault_6s.webp?du=3000&sqp=CIasm5gG&rs=AOn4CLBNbETupJLod-Mzb8kpZ6VuA5aqNA'
+          image='https://i.ytimg.com/vi/A7NyFVdvrho/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-XOB31k_nf5pqudOI92lpPW8GxQhttps://i.ytimg.com/vi/A7NyFVdvrho/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-XOB31k_nf5pqudOI92lpPW8GxQ'
           title='Judd Trump Into Last 16 With Century Clearance | 2022/23 BetVictor European Masters'
           channel='World Snooker Tour'
           channelImage='https://yt3.ggpht.com/ytc/AMLnZu_-ZBISmDKv7JZQnb34A7-dY7vMZ2jTADj8jEdNTw=s88-c-k-c0x00ffffff-no-rj'
@@ -127,7 +127,7 @@ const RecommendedVideos = () => {
           timestamp='2 days ago'
         />
         <VideoCards
-          image='https://i.ytimg.com/an_webp/YR8weV9nEKI/mqdefault_6s.webp?du=3000&sqp=CIasm5gG&rs=AOn4CLBNbETupJLod-Mzb8kpZ6VuA5aqNA'
+          image='https://i.ytimg.com/vi/A7NyFVdvrho/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-XOB31k_nf5pqudOI92lpPW8GxQhttps://i.ytimg.com/vi/A7NyFVdvrho/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-XOB31k_nf5pqudOI92lpPW8GxQ'
           title='Judd Trump Into Last 16 With Century Clearance | 2022/23 BetVictor European Masters'
           channel='World Snooker Tour'
           channelImage='https://yt3.ggpht.com/ytc/AMLnZu_-ZBISmDKv7JZQnb34A7-dY7vMZ2jTADj8jEdNTw=s88-c-k-c0x00ffffff-no-rj'

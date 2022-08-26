@@ -1,5 +1,7 @@
 # Youtube Clone
 
+- Deployed site on https://clone-b9180.web.app/
+
 - This Youtube Clone is build using :
     - react
     - material-ui
@@ -35,6 +37,34 @@
 
 - copying the firebase config file and saving in firebase.js file.
 
+## Firebase Deployment 
+
+- =======================================================Deploy using Firebase=========================================================================
+ 
+    - firebase init        -- click on hosting - configure and deploy firebase hosting sites
+    - select an existing project
+    - select your clone with that name
+    - we have to run the command build in the terminal for our application
+    - run in terminal -- yarn build
+    - firebase deploy 
+
+## React Router
+
+- It is the library to route pages
+- yarn add react-router-dom 
+
+- import {BrowserRouter as Router, Switch, Route, Link} from "react-router-dom";
+
+- link tag surround to the search button and it takes to the page defined in the route with the id that page which is dynamic all the way.
+- link tag surround to the youtube logo as well that will take us back to the homepage all the way.
+
+- path="/"    - take to the homepage
+- path="/search/:searchTerm" - this is the dynamic functionality.
+
+- link tag donot refresh it well as a tag do so as we are actually using the link tag here.
+- to get the dynamic search term we get that term from the state we saved the input and then we pass in to the to attribute in the link tag which takes us dynamically to the page, which we have written in the tempelate literals.
+- The best advantage of using the link tag is that, It doesnot refresh the whole page again, it just renders the component all the just.
+
 ### Extra Information
 
 - We use BEM that is really useful all the way the bem class naming convention means components names to start with capital
@@ -51,6 +81,10 @@
 - font-weight,font-size
 
 - we can also pass components in the props, Put to pass the components in the props we must have the props name start with the capital letter.
+
+- firebase is used here just to deploy the application
+
+- We must use the component inside the Router tag so as we can use Link tag init, else we will get the error that ref error.
 
 
 

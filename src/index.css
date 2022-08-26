@@ -23,7 +23,18 @@
     color: red
 }
 
+.avatar{
+    height: 120px !important;
+    width: 120px !important;
+    margin: 10px 60px;
+}
 
+.inputButton{
+    width: 50px !important;
+    background-color: #fafafa;
+    border-left: 1px solid lightgray;
+    color: gray;
+}
 
 @tailwind base;
 @tailwind components;

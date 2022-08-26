@@ -1,16 +1,19 @@
 import React from "react";
 import Header from "./components/Header";
-import RecommendedVideos from "./components/RecommendedVideos";
-import SideBar from "./components/SideBar";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import HomePage from "./components/HomePage";
+import SearchPage from "./components/SearchPage";
 
 function App() {
   return (
     <div>
+      <Router>
       <Header />
-      <div className="flex">
-        <SideBar />
-        <RecommendedVideos />
-      </div>
+        <Routes>
+          <Route path='/' element={<HomePage />} />
+          <Route path='/search/:searchTerm' element={<SearchPage />} />
+        </Routes>
+      </Router>
     </div>
   );
 }
